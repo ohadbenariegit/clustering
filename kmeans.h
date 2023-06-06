@@ -1,0 +1,1 @@
+void set_centroids(int, int, double **, double **);
